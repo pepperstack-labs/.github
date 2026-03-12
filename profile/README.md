@@ -1,6 +1,6 @@
 <img width="5440" height="1600" alt="og-image-pepperstack-labs" src="https://github.com/user-attachments/assets/544048eb-81da-4223-8dd9-8b45f1ecbc61" />
 
-# Welcome to Pepperstack Labs
+# Welcome to Pepperstack Labs 🌶️🌶️🌶️
 We are a team of passionate builders building AI agents for us and enterprises. We believe AI agents with Human oversight are the key to improved AI output.
 
 ### Our In-house Agents:
